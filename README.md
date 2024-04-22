@@ -23,3 +23,5 @@ Photo Translator Menu :
 PDF-Text Translator Menu :
 
 ![Screenshot 2024-04-22 142241](https://github.com/musavi79/Android_Dictionary_java/assets/104809077/feb1c9fd-413b-4292-9dff-9ee730866b0e)
+
+and more features...
